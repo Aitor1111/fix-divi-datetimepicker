@@ -3,12 +3,6 @@
 
 I've found how to solve multiselector date time pickers inside a Divi website with the plugin: Date and Time Picker by Input WP.
 
-## Screenshots
-
-![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot1.png)
-![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot2.png)
-
-
 
 ## Steps
 
@@ -303,6 +297,11 @@ function dtp_init() {
 	jQuery.datetimepicker.setLocale(datepickeropts.locale);
 }
 ```
+
+## Screenshots
+
+![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot1.png)
+![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot2.png)
 
 
   
