@@ -3,7 +3,10 @@
 
 I've found how to solve multiselector date time pickers inside a Divi website with the plugin: Date and Time Picker by Input WP.
 
+## Screenshots
 
+![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot1.png)
+![App Screenshot](https://github.com/Aitor1111/fix-divi-datetimepicker/blob/main/screenshot2.png)
 
 
 
@@ -301,9 +304,5 @@ function dtp_init() {
 }
 ```
 
-  
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
